@@ -1,0 +1,6 @@
+title = "TOML 例子"
+
+[database]
+    [[database.default]]
+        type = "mysql"
+        link = "root:root@tcp(127.0.0.1:3306)/test_db"
