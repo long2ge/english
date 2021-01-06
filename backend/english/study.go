@@ -11,5 +11,5 @@ func main() {
 
 	// fmt.Println(number)
 
-	logic.YouDaoMake()
+	logic.FindAbc()
 }

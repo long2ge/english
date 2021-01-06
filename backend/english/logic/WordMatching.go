@@ -5,14 +5,6 @@ import (
 	"strings"
 )
 
-func Test() {
-	fmt.Println(123)
-}
-
-func Test2() int {
-	return 1
-}
-
 func TextToWords(text string) []string {
 
 	// http://www.youdao.com/w/hello/
